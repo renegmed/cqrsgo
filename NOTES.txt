@@ -4,3 +4,11 @@ https://outcrawl.com/go-microservices-cqrs-docker/
 https://github.com/tinrab/meower
 
 
+$> go get github.com/lib/pq
+$> dep ensure
+
+$> go get github.com/nats-io/go-nats
+$> go get github.com/kelseyhightower/envconfig
+$> go get github.com/tinrab/retry
+$> go get github.com/gorilla/mux
+$> go get github.com/segmentio/ksuid
